@@ -4,7 +4,11 @@
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^16.9.0",
+    "react-http-request": "^2.0.0",
+    "react-icons": "^3.7.0",
+    "react-input-mask": "^2.0.4",
     "react-scripts": "3.1.2"
   },
   "scripts": {
