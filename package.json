@@ -9,7 +9,7 @@
     "react-http-request": "^2.0.0",
     "react-icons": "^3.7.0",
     "react-input-mask": "^2.0.4",
-    "react-scripts": "3.1.2"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
